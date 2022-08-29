@@ -1,4 +1,4 @@
-![App](image.jpeg)
+![App](image.jpg)
 
 # Magic 8 Ball
 
